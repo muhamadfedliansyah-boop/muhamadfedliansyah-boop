@@ -77,11 +77,39 @@
 <div align="center">
   <h3>Tech Stack & Tools</h3>
   <br>
+
+  <p><b>Languages & Core</b></p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,php,py,go,java,cs,react,nextjs,vue,express,tailwind,laravel,spring" />
-    <br><br>
-    <img src="https://skillicons.dev/icons?i=mysql,postgres,supabase,firebase,aws,gcp,docker,git,github,gitlab,nodejs,postman,figma,bash,windows,idea,vscode,sublime,eclipse" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,php,py,go,java,cs" />
   </a>
+  <br><br>
+
+  <p><b>Frameworks & Libraries</b></p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,nextjs,vue,express,tailwind,laravel,spring" />
+  </a>
+  <br><br>
+
+  <p><b>Databases & Cloud / BaaS</b></p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mysql,postgres,supabase,firebase,aws,gcp" />
+  </a>
+  <br><br>
+
+  <p><b>Tools, Environment & Platforms</b></p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=vscode,idea,eclipse,sublime,docker,git,github,gitlab,nodejs,postman,figma,bash,windows" />
+  </a>
+  <br><br>
+
+  <p><b>AI, APIs & Coding Tools</b></p>
+  <div>
+    <img src="https://img.shields.io/badge/Antigravity_IDE-5CADC0?style=flat-square&logo=google&logoColor=white" alt="Antigravity IDE" />
+    <img src="https://img.shields.io/badge/OpenAI_Codex-00A67E?style=flat-square&logo=openai&logoColor=white" alt="OpenAI Codex" />
+    <img src="https://img.shields.io/badge/Google_Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" alt="Google Gemini" />
+    <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" alt="OpenAI" />
+    <img src="https://img.shields.io/badge/Devin_AI-1E293B?style=flat-square&logo=codefactor&logoColor=white" alt="Devin AI" />
+  </div>
 </div>
 
 <br>
@@ -92,16 +120,20 @@
   <br>
 
   <!-- 1. Contribution Graph -->
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=muhamadfedliansyah-boop&theme=react-dark&bg_color=0D1117&color=5cadc0&line=5cadc0&point=5cadc0&area=true&hide_border=true" alt="Activity Graph" />
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=muhamadfedliansyah-boop&theme=react-dark&hide_border=true&area=true" alt="Activity Graph" />
 
   <br><br>
 
   <!-- 2. PageSpeed Insights -->
+  <p><b>PageSpeed Insights &bull; mfedliansyahilham.my.id</b></p>
   <a href="https://pagespeed.web.dev/analysis?url=https%3A%2F%2Fmfedliansyahilham.my.id" target="_blank">
-    <img width="95%" src="https://pagespeed-insights-svg.vercel.app/api?url=https://mfedliansyahilham.my.id&theme=dark" alt="PageSpeed Insights" />
+    <img src="https://img.shields.io/badge/Performance-99%2F100-22c55e?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Performance" />
+    <img src="https://img.shields.io/badge/Accessibility-95%2F100-22c55e?style=for-the-badge&logo=lighthouse&logoColor=white" alt="Accessibility" />
+    <img src="https://img.shields.io/badge/Best_Practices-100%2F100-22c55e?style=for-the-badge&logo=lighthouse&logoColor=white" alt="Best Practices" />
+    <img src="https://img.shields.io/badge/SEO-92%2F100-22c55e?style=for-the-badge&logo=google&logoColor=white" alt="SEO" />
   </a>
 
-  <br><br>
+  <br><br><br>
 
   <!-- 3. Contribution Snake Animation -->
   <img width="95%" src="https://raw.githubusercontent.com/muhamadfedliansyah-boop/muhamadfedliansyah-boop/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
