@@ -15,6 +15,10 @@
 <br>
 
 <div align="center">
+  <img src="https://komarev.com/ghpvc/?username=muhamadfedliansyah-boop&color=5cadc0&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
+</div>
+
+<div align="center">
   <img src="https://imgur.com/zeuHIk9.gif" width="180">
 </div>
 
@@ -73,39 +77,34 @@
 <div align="center">
   <h3>Tech Stack & Tools</h3>
   <br>
-
-  <p><b>Languages & Core</b></p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,php,py,go,java,cs" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,php,py,go,java,cs,react,nextjs,vue,express,tailwind,laravel,spring" />
+    <br><br>
+    <img src="https://skillicons.dev/icons?i=mysql,postgres,supabase,firebase,aws,gcp,docker,git,github,gitlab,nodejs,postman,figma,bash,windows,idea,vscode,sublime,eclipse" />
   </a>
+</div>
+
+<br>
+<br>
+
+<div align="center">
+  <h3>Activity & Performance</h3>
+  <br>
+
+  <!-- 1. Contribution Graph -->
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=muhamadfedliansyah-boop&theme=react-dark&bg_color=0D1117&color=5cadc0&line=5cadc0&point=5cadc0&area=true&hide_border=true" alt="Activity Graph" />
+
   <br><br>
 
-  <p><b>Frameworks & Libraries</b></p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,vue,express,tailwind,laravel,spring" />
+  <!-- 2. PageSpeed Insights -->
+  <a href="https://pagespeed.web.dev/analysis?url=https%3A%2F%2Fmfedliansyahilham.my.id" target="_blank">
+    <img width="95%" src="https://pagespeed-insights-svg.vercel.app/api?url=https://mfedliansyahilham.my.id&theme=dark" alt="PageSpeed Insights" />
   </a>
+
   <br><br>
 
-  <p><b>Databases & Cloud / BaaS</b></p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql,postgres,supabase,firebase,aws,gcp" />
-  </a>
-  <br><br>
-
-  <p><b>Tools, Environment & Platforms</b></p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,idea,eclipse,sublime,docker,git,github,gitlab,nodejs,postman,figma,bash,windows" />
-  </a>
-  <br><br>
-
-  <p><b>AI, APIs & Intelligent Tools</b></p>
-  <div>
-    <img src="https://img.shields.io/badge/Google_Gemini_API-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" alt="Gemini API" />
-    <img src="https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white" alt="OpenAI API" />
-    <img src="https://img.shields.io/badge/Antigravity-5CADC0?style=flat-square&logo=google&logoColor=white" alt="Antigravity" />
-    <img src="https://img.shields.io/badge/Devin_AI-1E293B?style=flat-square&logo=codefactor&logoColor=white" alt="Devin" />
-    <img src="https://img.shields.io/badge/OpenAI_Codex-00A67E?style=flat-square&logo=openai&logoColor=white" alt="Codex" />
-  </div>
+  <!-- 3. Contribution Snake Animation -->
+  <img width="95%" src="https://raw.githubusercontent.com/muhamadfedliansyah-boop/muhamadfedliansyah-boop/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
 </div>
 
 <br>
