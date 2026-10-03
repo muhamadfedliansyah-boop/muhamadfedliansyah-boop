@@ -25,7 +25,9 @@
 </div>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Fedli-Developer-5cadc0?style=flat-square" />
+  <a href="https://mfedliansyahilham.my.id" target="_blank">
+    <img src="https://img.shields.io/badge/Fedli-Developer-5cadc0?style=flat-square" alt="Fedli Developer Website" />
+  </a>
 </div>
 
 <br>
