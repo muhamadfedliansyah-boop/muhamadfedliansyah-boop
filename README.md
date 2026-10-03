@@ -104,9 +104,9 @@
 
   <p><b>AI, APIs & Coding Tools</b></p>
   <div>
-    <img width="45" src="./assets/icons/Antigravity.jpg" alt="Antigravity IDE" />
-    <img width="45" src="./assets/icons/Codex.jpg" alt="OpenAI Codex" />
-    <img width="45" src="./assets/icons/Devin.png" alt="Devin AI" />
+    <img width="45" src="https://raw.githubusercontent.com/muhamadfedliansyah-boop/muhamadfedliansyah-boop/main/assets/icons/Antigravity.jpg" alt="Antigravity IDE" />
+    <img width="45" src="https://raw.githubusercontent.com/muhamadfedliansyah-boop/muhamadfedliansyah-boop/main/assets/icons/Codex.jpg" alt="OpenAI Codex" />
+    <img width="45" src="https://raw.githubusercontent.com/muhamadfedliansyah-boop/muhamadfedliansyah-boop/main/assets/icons/Devin.png" alt="Devin AI" />
   </div>
 </div>
 
@@ -133,7 +133,7 @@
 
   <!-- 2. PageSpeed Insights Donut SVG -->
   <a href="https://pagespeed.web.dev/analysis?url=https%3A%2F%2Fmfedliansyahilham.my.id" target="_blank">
-    <img width="95%" src="./assets/pagespeed.svg" alt="PageSpeed Insights" />
+    <img width="95%" src="https://raw.githubusercontent.com/muhamadfedliansyah-boop/muhamadfedliansyah-boop/main/assets/pagespeed.svg" alt="PageSpeed Insights" />
   </a>
 
   <br><br><br>
