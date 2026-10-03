@@ -131,13 +131,6 @@
 
   <br><br>
 
-  <!-- 2. PageSpeed Insights Donut SVG -->
-  <a href="https://pagespeed.web.dev/analysis?url=https%3A%2F%2Fmfedliansyahilham.my.id" target="_blank">
-    <img width="95%" src="https://raw.githubusercontent.com/muhamadfedliansyah-boop/muhamadfedliansyah-boop/main/assets/pagespeed.svg" alt="PageSpeed Insights" />
-  </a>
-
-  <br><br><br>
-
   <!-- 3. Contribution Snake Animation -->
   <img width="95%" src="https://raw.githubusercontent.com/muhamadfedliansyah-boop/muhamadfedliansyah-boop/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
 </div>
