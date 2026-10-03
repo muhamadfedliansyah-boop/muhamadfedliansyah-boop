@@ -104,11 +104,9 @@
 
   <p><b>AI, APIs & Coding Tools</b></p>
   <div>
-    <img src="https://img.shields.io/badge/Antigravity_IDE-5CADC0?style=flat-square&logo=google&logoColor=white" alt="Antigravity IDE" />
-    <img src="https://img.shields.io/badge/OpenAI_Codex-00A67E?style=flat-square&logo=openai&logoColor=white" alt="OpenAI Codex" />
-    <img src="https://img.shields.io/badge/Google_Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" alt="Google Gemini" />
-    <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" alt="OpenAI" />
-    <img src="https://img.shields.io/badge/Devin_AI-1E293B?style=flat-square&logo=codefactor&logoColor=white" alt="Devin AI" />
+    <img width="45" src="./assets/icons/Antigravity.jpg" alt="Antigravity IDE" />
+    <img width="45" src="./assets/icons/Codex.jpg" alt="OpenAI Codex" />
+    <img width="45" src="./assets/icons/Devin.png" alt="Devin AI" />
   </div>
 </div>
 
@@ -119,18 +117,23 @@
   <h3>Activity & Performance</h3>
   <br>
 
-  <!-- 1. Contribution Graph -->
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=muhamadfedliansyah-boop&theme=react-dark&hide_border=true&area=true" alt="Activity Graph" />
+  <!-- 1. Profile Summary & Productive Time Cards -->
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=muhamadfedliansyah-boop&theme=nord_dark" alt="Profile Details" />
+      </td>
+      <td align="center">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=muhamadfedliansyah-boop&theme=nord_dark&utcOffset=7" alt="Productive Time" />
+      </td>
+    </tr>
+  </table>
 
   <br><br>
 
-  <!-- 2. PageSpeed Insights -->
-  <p><b>PageSpeed Insights &bull; mfedliansyahilham.my.id</b></p>
+  <!-- 2. PageSpeed Insights Donut SVG -->
   <a href="https://pagespeed.web.dev/analysis?url=https%3A%2F%2Fmfedliansyahilham.my.id" target="_blank">
-    <img src="https://img.shields.io/badge/Performance-99%2F100-22c55e?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Performance" />
-    <img src="https://img.shields.io/badge/Accessibility-95%2F100-22c55e?style=for-the-badge&logo=lighthouse&logoColor=white" alt="Accessibility" />
-    <img src="https://img.shields.io/badge/Best_Practices-100%2F100-22c55e?style=for-the-badge&logo=lighthouse&logoColor=white" alt="Best Practices" />
-    <img src="https://img.shields.io/badge/SEO-92%2F100-22c55e?style=for-the-badge&logo=google&logoColor=white" alt="SEO" />
+    <img width="95%" src="./assets/pagespeed.svg" alt="PageSpeed Insights" />
   </a>
 
   <br><br><br>
