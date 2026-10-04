@@ -85,9 +85,9 @@
     <img src="https://skillicons.dev/icons?i=react,nextjs,vue,express,tailwind,laravel,spring" />
   </a>
   <br>
-  <img src="https://img.shields.io/badge/Slim-74b816?style=for-the-badge&logo=php&logoColor=white" alt="Slim" />
-  <img src="https://img.shields.io/badge/Grails-f48024?style=for-the-badge&logo=apache-groovy&logoColor=white" alt="Grails" />
-  <img src="https://img.shields.io/badge/Gin--Gonic-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Gin-Gonic" />
+  <img width="45" src="https://raw.githubusercontent.com/muhamadfedliansyah-boop/muhamadfedliansyah-boop/main/assets/icons/Slim.png" alt="Slim Framework" />
+  <img width="45" src="https://raw.githubusercontent.com/muhamadfedliansyah-boop/muhamadfedliansyah-boop/main/assets/icons/Grails.svg" alt="Grails" />
+  <img width="45" src="https://raw.githubusercontent.com/muhamadfedliansyah-boop/muhamadfedliansyah-boop/main/assets/icons/Gin-Gonic.png" alt="Gin-Gonic" />
   <br><br>
 
   <p><b>Databases & Cloud / BaaS</b></p>
