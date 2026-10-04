@@ -15,10 +15,6 @@
 <br>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=muhamadfedliansyah-boop&color=5cadc0&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
-</div>
-
-<div align="center">
   <img src="https://imgur.com/zeuHIk9.gif" width="180">
 </div>
 
@@ -88,6 +84,10 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=react,nextjs,vue,express,tailwind,laravel,spring" />
   </a>
+  <br>
+  <img src="https://img.shields.io/badge/Slim-74b816?style=for-the-badge&logo=php&logoColor=white" alt="Slim" />
+  <img src="https://img.shields.io/badge/Grails-f48024?style=for-the-badge&logo=apache-groovy&logoColor=white" alt="Grails" />
+  <img src="https://img.shields.io/badge/Gin--Gonic-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Gin-Gonic" />
   <br><br>
 
   <p><b>Databases & Cloud / BaaS</b></p>
