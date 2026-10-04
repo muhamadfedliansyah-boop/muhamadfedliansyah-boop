@@ -102,6 +102,7 @@
   </a>
   <br><br>
 
+  <!-- bagian ai -->
   <p><b>AI, APIs & Coding Tools</b></p>
   <div>
     <img width="45" src="https://raw.githubusercontent.com/muhamadfedliansyah-boop/muhamadfedliansyah-boop/main/assets/icons/Antigravity.jpg" alt="Antigravity IDE" />
