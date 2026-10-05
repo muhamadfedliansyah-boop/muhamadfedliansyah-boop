@@ -98,7 +98,7 @@
 
   <p><b>Tools, Environment & Platforms</b></p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,idea,eclipse,sublime,docker,git,github,gitlab,nodejs,postman,figma,bash,windows" />
+    <img src="https://skillicons.dev/icons?i=vscode,idea,eclipse,sublime,docker,monggo,git,github,gitlab,nodejs,postman,figma,bash,windows" />
   </a>
   <br><br>
 
