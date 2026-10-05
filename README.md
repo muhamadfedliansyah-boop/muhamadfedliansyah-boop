@@ -32,7 +32,7 @@
 
 <div align="center">
   <a href="https://open.spotify.com/track/1v6svH1Fyx9C1nIt1mA2DT" target="_blank">
-    <img src="assets/spotify.svg" alt="Olivia Rodrigo - All I Want (Spotify)" />
+    <img src="https://raw.githubusercontent.com/muhamadfedliansyah-boop/muhamadfedliansyah-boop/main/assets/spotify.svg" alt="Olivia Rodrigo - All I Want (Spotify)" />
   </a>
 </div>
 
