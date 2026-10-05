@@ -30,11 +30,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=5CADC0&center=true&vCenter=true&width=900&lines=Hai%2C+saya+Muhamad+Fedliansyah+Ilham+(Fedli);Siswa+Kelas+11+SMK+Wikrama+Bogor+(16+y.o);A+passionate+student+%2F+developer+from+Indonesia;Exploring+Web+Development%2C+Data+%26+AI;Welcome+to+my+profile!" alt="Typing SVG"/>
 </div>
 
-<div align="center">
-  <a href="https://open.spotify.com/track/1v6svH1Fyx9C1nIt1mA2DT" target="_blank">
-    <img src="https://raw.githubusercontent.com/muhamadfedliansyah-boop/muhamadfedliansyah-boop/main/assets/spotify.svg" alt="Olivia Rodrigo - All I Want (Spotify)" />
-  </a>
-</div>
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=312lrfekmrbw3x7hpyqw6jxtk5q4&cover_image=true&theme=spotify-embed&show_offline=true&background_color=121212&interchange=true&profanity=true&hide_remaster=true&bar_color=53b14f&bar_color_cover=true&mode=dark)](https://spotify-github-profile.kittinanx.com/api/view?uid=312lrfekmrbw3x7hpyqw6jxtk5q4&redirect=true)
 
 <br>
 
