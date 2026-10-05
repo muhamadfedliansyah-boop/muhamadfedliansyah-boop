@@ -30,6 +30,12 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=5CADC0&center=true&vCenter=true&width=900&lines=Hai%2C+saya+Muhamad+Fedliansyah+Ilham+(Fedli);Siswa+Kelas+11+SMK+Wikrama+Bogor+(16+y.o);A+passionate+student+%2F+developer+from+Indonesia;Exploring+Web+Development%2C+Data+%26+AI;Welcome+to+my+profile!" alt="Typing SVG"/>
 </div>
 
+<div align="center">
+  <a href="https://open.spotify.com/track/1v6svH1Fyx9C1nIt1mA2DT" target="_blank">
+    <img src="assets/spotify.svg" alt="Olivia Rodrigo - All I Want (Spotify)" />
+  </a>
+</div>
+
 <br>
 
 <details align="center">
@@ -92,13 +98,13 @@
 
   <p><b>Databases & Cloud / BaaS</b></p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql,postgres,supabase,firebase,aws,gcp" />
+    <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,supabase,firebase,aws,gcp" />
   </a>
   <br><br>
 
   <p><b>Tools, Environment & Platforms</b></p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,idea,eclipse,sublime,docker,monggo,git,github,gitlab,nodejs,postman,figma,bash,windows" />
+    <img src="https://skillicons.dev/icons?i=vscode,idea,eclipse,sublime,docker,git,github,gitlab,nodejs,postman,figma,bash,windows" />
   </a>
   <br><br>
 
