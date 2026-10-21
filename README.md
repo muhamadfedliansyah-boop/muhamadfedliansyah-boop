@@ -157,8 +157,12 @@
 
   <br><br>
 
-  <!-- 3. Contribution Snake Animation -->
-  <img width="95%" src="https://raw.githubusercontent.com/muhamadfedliansyah-boop/muhamadfedliansyah-boop/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
+  <!-- Contribution Pacman Graph -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/muhamadfedliansyah-boop/muhamadfedliansyah-boop/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/muhamadfedliansyah-boop/muhamadfedliansyah-boop/output/pacman-contribution-graph.svg">
+    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/muhamadfedliansyah-boop/muhamadfedliansyah-boop/output/pacman-contribution-graph.svg">
+  </picture>
 </div>
 
 <br>
